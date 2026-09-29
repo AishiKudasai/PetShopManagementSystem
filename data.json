@@ -1,0 +1,17 @@
+{
+  "pets": [],
+  "owners": [],
+  "breeds": [],
+  "consultations": [],
+  "services": [],
+  "serviceRecords": [],
+  "medicines": [],
+  "appointments": [],
+  "charges": [],
+  "payments": [],
+  "activities": [],
+  "settings": {
+    "shopName": "PetCare Veterinary & Pet Shop",
+    "currency": "\u20b1"
+  }
+}
